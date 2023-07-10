@@ -1,0 +1,32 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "version": "43",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Shopworx_API_CONNECTOR",
+    "company": "INFINNITY",
+    "logoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fe27.co%2Fstartups%2Fshopworx%2F&psig=AOvVaw1RFruXPEX-lQypo0Y7d539&ust=1682753071528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD0r-qFzP4CFQAAAAAdAAAAABAY",
+    "companyUrl": "http://qa.shopworx.io",
+    "addonUrl": "http://qa.shopworx.io",
+    "supportUrl": "http://qa.shopworx.io",
+    "description": "Connect Data Studio to web service",
+    "sources": [
+      "CUSTOM_JSON"
+    ],
+    "authType": [
+      "NONE"
+    ],
+    "feeType": [
+      "FREE"
+    ]
+  }
+}
