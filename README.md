@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=OezuZIIyBV4&ab_channel=EasyForms
 getData Code :
 
 
-Code for SessionId : Sudarshan Bhaiya's Code ( SessionID AppsScript )
+Code for SessionId : Sudarshan's Code ( SessionID AppsScript )
 
 https://mail.google.com/mail/u/0/#search/sudarshanmunde2626%40gmail.com/FMfcgzGsmqxlpcwbnkVhTjGTLwXbhdWV?projector=1&messagePartId=0.1
 
