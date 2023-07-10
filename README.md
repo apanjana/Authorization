@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=OezuZIIyBV4&ab_channel=EasyForms
 
 getData Code :
 
+https://medium.com/@kaushal.sonii/creating-a-custom-data-connector-for-google-looker-studio-1f816b94be43
 
 Code for SessionId : Sudarshan's Code ( SessionID AppsScript )
 
