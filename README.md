@@ -2,6 +2,15 @@
 To provide authorization to shopworx api
 
 
+Team Members :
+Anjana AP
+Harsh Bhanushali
+Ruchit Balai
+Siddhesh Dhonde
+Siddhartha Saha
+Rasagya Gandhi 
+
+
 
 REFRENCES :
 
@@ -18,6 +27,8 @@ https://www.youtube.com/watch?v=OezuZIIyBV4&ab_channel=EasyForms
 https://www.youtube.com/watch?v=t4-416mg6iU&ab_channel=JavaBrains
 
 https://www.youtube.com/watch?v=3pZ3Nh8tgTE&ab_channel=JavaBrains
+
+https://www.youtube.com/watch?v=S9qkxdD6QIg&ab_channel=DavidWeiss
 
 getData Code :
 
