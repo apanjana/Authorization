@@ -4,7 +4,7 @@ To provide authorization to shopworx api
 
 Team Members :
 
-Anjana AP
+Anjana A P
 
 Harsh Bhanushali
 
